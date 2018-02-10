@@ -9,10 +9,14 @@
 
 ## Result
 
-  This is a test result.
-
-  * Part 1
+### Part 1
 
   ![](/part1/image/part1.png)
 
-  * Part 2
+### Part 2
+
+  * Server
+  ![](/part2/image/result1.png)
+
+  * Client
+  ![](/part2/image/result2.png)
